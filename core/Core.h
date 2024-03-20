@@ -8,7 +8,7 @@
 #include <chrono>
 #include <barrier>
 
-#include "../component.h"
+#include "../Component.h"
 #include "CoreExtension.h"
 #include "CoreRenderer.h"
 #include "CoreExtension.h"
